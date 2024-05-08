@@ -23,7 +23,7 @@ Welcome to the Emotion Detection Application! This app allows you to upload imag
 
 1. Run the Streamlit app by executing the following command in your terminal.
    ```bash
-   streamlit run app.py
+   streamlit run facialEmotion.py
    ```
 
 2. The application will open in your default web browser. You can then upload an image or video file to analyze the emotions detected.
